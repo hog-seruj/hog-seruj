@@ -38,9 +38,9 @@ I focus on building clean, maintainable web applications with strong front-end a
 ---
 
 ## 💻Featured Projects
-- [Notehub project](https://09-auth-delta-sepia.vercel.app/) – Project created on NextJS with registration and authorization features.
-- [Movies catalog](https://04-react-query-liard-delta.vercel.app/) - Search movies service based on TMDB API.
-- [EcoTote](https://hog-seruj.github.io/project-AgeTeam01/) - EcoTote - brand site template.
+- [Notehub project](https://github.com/hog-seruj/09-auth) – Project created on NextJS with registration and authorization features.
+- [Movies catalog](https://github.com/hog-seruj/04-react-query) - Search movies service based on TMDB API.
+- [EcoTote](https://github.com/hog-seruj/project-AgeTeam01) - EcoTote - brand site template.
 
 ---
 
