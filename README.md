@@ -41,6 +41,8 @@ I focus on building clean, maintainable web applications with strong front-end a
 - [Notehub project](https://github.com/hog-seruj/09-auth) – Project created on NextJS with registration and authorization features.
 - [Movies catalog](https://github.com/hog-seruj/04-react-query) - Search movies service based on TMDB API.
 - [EcoTote](https://github.com/hog-seruj/project-AgeTeam01) - EcoTote - brand site template.
+- [Clickable block](https://github.com/hog-seruj/clickable-block) - Custom Drupal behavior to make the whole teaser clickable.
+- [DVC-docker-frontend](https://github.com/hog-seruj/dvc-docker-frontend) - Docker image to build a Drupal theme.
 
 ---
 
