@@ -49,8 +49,3 @@ I focus on building clean, maintainable web applications with strong front-end a
 [Drupal.org](https://www.drupal.org/u/hog) |
 [Telegram](https://t.me/+380637627769) |
 [Email](mailto:hogseruj1@gmail.com)
-
----
-
-## 📊 GitHub Stats
-![Sergiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=hog-seruj&show_icons=true&hide_title=true)
